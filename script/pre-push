@@ -2,4 +2,4 @@
 
 exec < /dev/tty
 
-php vendor/gqaustralia/kodosunifa/kodosunifa.php kodosunifa:sniff
+php vendor/jraymundoyrockdev/kodosunifa/kodosunifa.php kodosunifa:sniff
